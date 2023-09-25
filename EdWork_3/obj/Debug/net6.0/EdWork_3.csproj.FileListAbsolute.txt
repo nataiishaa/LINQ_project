@@ -1,0 +1,5 @@
+C:\Users\n0804\source\repos\EdWork_3\EdWork_3\obj\Debug\net6.0\EdWork_3.csproj.AssemblyReference.cache
+C:\Users\n0804\source\repos\EdWork_3\EdWork_3\obj\Debug\net6.0\EdWork_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n0804\source\repos\EdWork_3\EdWork_3\obj\Debug\net6.0\EdWork_3.AssemblyInfoInputs.cache
+C:\Users\n0804\source\repos\EdWork_3\EdWork_3\obj\Debug\net6.0\EdWork_3.AssemblyInfo.cs
+C:\Users\n0804\source\repos\EdWork_3\EdWork_3\obj\Debug\net6.0\EdWork_3.csproj.CoreCompileInputs.cache

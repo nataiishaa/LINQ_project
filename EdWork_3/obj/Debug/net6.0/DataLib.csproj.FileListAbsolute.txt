@@ -1,0 +1,15 @@
+C:\Users\n0804\source\repos\EdWork_3\EdWork_3\bin\Debug\net6.0\DataLib.deps.json
+C:\Users\n0804\source\repos\EdWork_3\EdWork_3\bin\Debug\net6.0\DataLib.dll
+C:\Users\n0804\source\repos\EdWork_3\EdWork_3\bin\Debug\net6.0\DataLib.pdb
+C:\Users\n0804\source\repos\EdWork_3\EdWork_3\bin\Debug\net6.0\NewVariant.dll
+C:\Users\n0804\source\repos\EdWork_3\EdWork_3\bin\Debug\net6.0\NewVariant.pdb
+C:\Users\n0804\source\repos\EdWork_3\EdWork_3\obj\Debug\net6.0\DataLib.csproj.AssemblyReference.cache
+C:\Users\n0804\source\repos\EdWork_3\EdWork_3\obj\Debug\net6.0\DataLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n0804\source\repos\EdWork_3\EdWork_3\obj\Debug\net6.0\DataLib.AssemblyInfoInputs.cache
+C:\Users\n0804\source\repos\EdWork_3\EdWork_3\obj\Debug\net6.0\DataLib.AssemblyInfo.cs
+C:\Users\n0804\source\repos\EdWork_3\EdWork_3\obj\Debug\net6.0\DataLib.csproj.CoreCompileInputs.cache
+C:\Users\n0804\source\repos\EdWork_3\EdWork_3\obj\Debug\net6.0\DataLib.csproj.CopyComplete
+C:\Users\n0804\source\repos\EdWork_3\EdWork_3\obj\Debug\net6.0\DataLib.dll
+C:\Users\n0804\source\repos\EdWork_3\EdWork_3\obj\Debug\net6.0\refint\DataLib.dll
+C:\Users\n0804\source\repos\EdWork_3\EdWork_3\obj\Debug\net6.0\DataLib.pdb
+C:\Users\n0804\source\repos\EdWork_3\EdWork_3\obj\Debug\net6.0\ref\DataLib.dll
